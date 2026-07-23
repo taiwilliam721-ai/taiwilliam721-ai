@@ -15,7 +15,6 @@ My work spans solution architecture, frontend and backend development, cloud dep
 ## About Me
 
 - Senior Full-Stack AI/Web Developer
-- Based in Shenyang, China
 - Experienced in enterprise architecture, web development, AI integration, and automation
 - Strong background in React, Next.js, Node.js, Python, PHP, AWS, and CI/CD
 - Comfortable leading projects from discovery and technical design through production release and support
@@ -93,49 +92,6 @@ My work spans solution architecture, frontend and backend development, cloud dep
 
 ---
 
-## Professional Experience
-
-### Architect & Development Lead  
-**Neusoft Corporation — Shenyang, China**  
-**October 2024 – Present**
-
-- Lead architecture and full-stack delivery for enterprise web, integration, and AI-enabled automation initiatives.
-- Shape solution architecture, API contracts, data models, security controls, release standards, and technical documentation.
-- Guide delivery across React, Next.js, Node.js, Python, PHP, databases, cloud infrastructure, and CI/CD pipelines.
-- Support code reviews, troubleshooting, performance tuning, and cross-functional stakeholder alignment.
-
-### Senior Developer & Consultant  
-**Samsung China Investment Co., Ltd., Shenyang Branch**  
-**August 2014 – March 2019**
-
-- Delivered enterprise web applications, backend services, API integrations, and database-driven business systems.
-- Contributed to solution design, technical planning, code quality, release support, and stakeholder communication.
-- Worked across JavaScript, Node.js, Python, PHP, relational databases, REST APIs, and cloud-based delivery workflows.
-
-### Senior Full-Stack Developer  
-**Intel (China) Limited Company, Shenyang Office**  
-**April 2011 – August 2014**
-
-- Built and maintained full-stack web applications, reusable components, backend services, and data-driven features.
-- Supported requirements analysis, API development, testing, debugging, documentation, and production releases.
-- Collaborated with engineering and business teams to improve reliability, maintainability, and performance.
-
-### Senior Full-Stack Developer — Remote  
-**Capgemini France**  
-**May 2020 – April 2022**
-
-- Contributed to distributed enterprise application development and integration work.
-- Supported full-stack delivery, API integration, cloud deployment, code review, and Agile collaboration.
-
-### Senior Developer — Remote  
-**Sinch Sweden**  
-**September 2022 – June 2024**
-
-- Supported web platform development, communication workflows, APIs, and cloud-based engineering delivery.
-- Worked with distributed stakeholders through Agile/Scrum processes, documentation, reviews, and production support.
-
----
-
 ## Representative Projects
 
 ### E-Commerce Application
@@ -173,14 +129,6 @@ Android-focused mobile application with reusable screens, API-connected data, au
 Automated multi-system workflows for data synchronization, notifications, webhook-driven actions, and reduction of repetitive business processes.
 
 **Stack:** n8n, Zapier, Make, Webhooks, REST APIs
-
----
-
-## Education
-
-**Bachelor's Degree in Computer Engineering**  
-Shenyang University of Technology  
-Shenyang, China
 
 ---
 
