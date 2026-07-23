@@ -151,9 +151,7 @@ Automated multi-system workflows for data synchronization, notifications, webhoo
 ## Contact
 
 - **Email:** [taiwilliam721@gmail.com](mailto:taiwilliam721@gmail.com)
-- **Portfolio:** [williamtaylortech.com](https://williamtaylortech.com)
 - **GitHub:** [github.com/taiwilliam721-ai](https://github.com/taiwilliam721-ai)
-- **Location:** Shenyang, China
 
 ---
 
