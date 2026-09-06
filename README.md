@@ -7,6 +7,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://resilient-bubblegum-b9d163.netlify.app"><img src="https://img.shields.io/badge/Portfolio-solo.to/lil_addy-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio"/></a>
+  <a href="https://mentorcruise.com/mentor/addyradwan/"><img src="https://img.shields.io/badge/MentorCruise-Top%201%25-green?style=for-the-badge&logo=mentor" alt="MentorCruise"/></a>
+  <a href="https://www.linkedin.com/in/addy-radwan/" ><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+</p>
+
+---
+
 ## Technical Skills
 
 #### Programming Languages & Frameworks
