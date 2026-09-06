@@ -42,9 +42,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-61DAFB?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F24E1E?style=flat-square&logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-E34F26?style=flat-square&logo=prisma)
-![Supabase](https://img.shields.io/badge/Supabase-593D88?style=flat-square&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/MySQL-611AFB?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/MySQL-A1D7FB?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/MySQL-F1DAFB?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### AI and Automation
 
