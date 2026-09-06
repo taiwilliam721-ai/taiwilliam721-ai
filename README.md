@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, Tai Zhong Won (William)</h1>
 <h3 align="center">Senior Software Engineer | AI | Web</h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-WilliamTaylorTech.com-111111?style=for-the-badge)](https://resilient-bubblegum-b9d163.netlify.app)
-[![Email](https://img.shields.io/badge/Email-taiwilliam721%40gmail.com-111111?style=for-the-badge)](mailto:taiwilliam721@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-taiwilliam721--ai-111111?style=for-the-badge&logo=github)](https://github.com/taiwilliam721-ai)
-
 ---
 
 <p align="center">
-  <a href="https://resilient-bubblegum-b9d163.netlify.app"><img src="https://img.shields.io/badge/Portfolio-solo.to/lil_addy-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio"/></a>
-  <a href="mailto:taiwilliam721@gmail.com" ><img src="https://img.shields.io/badge/Email-Top%201%25-green?style=for-the-badge&logo=Email" alt="Email"/></a>
+  <a href="https://resilient-bubblegum-b9d163.netlify.app"><img src="https://img.shields.io/badge/Portfolio-MyPortfolio-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio"/></a>
+  <a href="mailto:taiwilliam721@gmail.com" ><img src="https://img.shields.io/badge/Email-Taiwilliam721-green?style=for-the-badge&logo=Email" alt="Email"/></a>
 </p>
 
 ---
