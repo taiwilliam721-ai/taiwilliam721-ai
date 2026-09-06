@@ -114,46 +114,6 @@
 
 ---
 
-## Representative Projects
-
-### E-Commerce Application
-
-Full-stack commerce platform covering product catalogs, customer accounts, cart and checkout workflows, administration, APIs, and external service integrations.
-
-**Stack:** React, Next.js, Node.js, PostgreSQL, REST APIs
-
-### Booking Platform
-
-Reservation platform with availability management, booking records, customer-facing forms, administrative dashboards, and notification-ready integrations.
-
-**Stack:** Next.js, Node.js, PostgreSQL, Prisma, REST APIs
-
-### AI Chatbot
-
-AI assistant using retrieval-augmented generation, document-based context, API orchestration, and reusable agent workflows.
-
-**Stack:** OpenAI API, RAG, Python, FastAPI
-
-### Task-Management SaaS
-
-Role-aware SaaS platform supporting authentication, task CRUD operations, dashboards, filtering, collaboration workflows, and cloud deployment.
-
-**Stack:** MERN, Next.js, Prisma, Supabase
-
-### Mobile Application
-
-Android-focused mobile application with reusable screens, API-connected data, authentication-ready flows, and responsive interaction patterns.
-
-**Stack:** React Native, Android, REST APIs
-
-### Business Automation Workflow
-
-Automated multi-system workflows for data synchronization, notifications, webhook-driven actions, and reduction of repetitive business processes.
-
-**Stack:** n8n, Zapier, Make, Webhooks, REST APIs
-
----
-
 ## Certifications
 
 - AWS Certified Cloud Practitioner
@@ -162,11 +122,11 @@ Automated multi-system workflows for data synchronization, notifications, webhoo
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taiwilliam721-ai&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taiwilliam721-ai&layout=compact&hide_border=true&theme=transparent)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdelrahmanRadwan/AbdelrahmanRadwan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdelrahmanRadwan/AbdelrahmanRadwan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AbdelrahmanRadwan/AbdelrahmanRadwan/output/github-snake.svg" />
+</picture>
 
 ---
 
