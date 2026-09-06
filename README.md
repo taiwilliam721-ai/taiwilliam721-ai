@@ -12,16 +12,6 @@ My work spans solution architecture, frontend and backend development, cloud dep
 
 ---
 
-## About Me
-
-- Senior Full-Stack AI/Web Developer
-- Experienced in enterprise architecture, web development, AI integration, and automation
-- Strong background in React, Next.js, Node.js, Python, PHP, AWS, and CI/CD
-- Comfortable leading projects from discovery and technical design through production release and support
-- Focused on maintainable architecture, reliable delivery, performance, and practical business outcomes
-
----
-
 ## Technical Skills
 
 ### Frontend
