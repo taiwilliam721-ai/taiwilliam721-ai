@@ -21,7 +21,7 @@ My work spans solution architecture, frontend and backend development, cloud dep
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-111111?style=flat-square&logo=laravel)
+![Laravel](https://img.shields.io/badge/Laravel-5719AD?style=flat-square&logo=laravel)
 ![Django](https://img.shields.io/badge/Django-111111?style=flat-square&logo=django)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -69,11 +69,6 @@ My work spans solution architecture, frontend and backend development, cloud dep
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-111111?style=flat-square)
 ![Confluence](https://img.shields.io/badge/Confluence-111111?style=flat-square&logo=confluence)
 ![Agile](https://img.shields.io/badge/Agile%2FScrum-111111?style=flat-square)
-
-### Mobile
-
-![React Native](https://img.shields.io/badge/React_Native-111111?style=flat-square&logo=react)
-![Android](https://img.shields.io/badge/Android-111111?style=flat-square&logo=android)
 
 ---
 
