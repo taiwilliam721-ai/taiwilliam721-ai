@@ -8,8 +8,8 @@
 ---
 
 <p align="center">
-  <a href="https://resilient-bubblegum-b9d163.netlify.app"><img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio"/></a>
-  <a href="mailto:taiwilliam721@gmail.com" ><img src="https://img.shields.io/badge/Email-Connect-blue?style=for-the-badge&logo=Email" alt="Email"/></a>
+  <a href="https://resilient-bubblegum-b9d163.netlify.app"><img src="https://img.shields.io/badge/Portfolio-solo.to/lil_addy-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio"/></a>
+  <a href="mailto:taiwilliam721@gmail.com" ><img src="https://img.shields.io/badge/Email-Top%201%25-green?style=for-the-badge&logo=Email" alt="Email"/></a>
 </p>
 
 ---
