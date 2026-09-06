@@ -130,11 +130,4 @@
 
 ---
 
-## Contact
-
-- **Email:** [taiwilliam721@gmail.com](mailto:taiwilliam721@gmail.com)
-- **GitHub:** [github.com/taiwilliam721-ai](https://github.com/taiwilliam721-ai)
-
----
-
 > Open to senior full-stack, AI-enabled application development, architecture, consulting, and long-term technical collaboration.
