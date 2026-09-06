@@ -48,12 +48,12 @@
 
 ### AI and Automation
 
-![OpenAI](https://img.shields.io/badge/OpenAI-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-61DAFB?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-326CE5?style=for-the-badge&logo=OpenAI&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-61DAFB?style=for-the-badge&logo=RAG&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-120CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-563D7C?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-007FFF?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Make](https://img.shields.io/badge/Make-120CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-563D7C?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-007FFF?style=for-the-badge&logo=Zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-120CE5?style=for-the-badge&logo=Make&logoColor=white)
 
 ### Cloud, DevOps, and Delivery
 
@@ -61,12 +61,12 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-A26CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-826CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-C26CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-120CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-720C15?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-929CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-A26CE5?style=for-the-badge&logo=Vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-826CE5?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-C26CE5?style=for-the-badge&logo=GitHub&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-120CE5?style=for-the-badge&logo=CI/CD&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-720C15?style=for-the-badge&logo=Confluence&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-929CE5?style=for-the-badge&logo=Agile&logoColor=white)
 
 ---
 
