@@ -65,9 +65,11 @@ My work spans solution architecture, frontend and backend development, cloud dep
 
 ### Cloud, DevOps, and Delivery
 
-![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-111111?style=flat-square)
