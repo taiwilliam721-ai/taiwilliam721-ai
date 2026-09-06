@@ -43,7 +43,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-611AFB?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-A1D7FB?style=for-the-badge&logo=Prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-F1DAFB?style=for-the-badge&logo=Supabase&logoColor=white)
 
 ### AI and Automation
 
@@ -63,9 +62,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-A26CE5?style=for-the-badge&logo=Vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-826CE5?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-C26CE5?style=for-the-badge&logo=GitHub&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-120CE5?style=for-the-badge&logo=CI/CD&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-720C15?style=for-the-badge&logo=Confluence&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-929CE5?style=for-the-badge&logo=Agile&logoColor=white)
 
 ---
 
