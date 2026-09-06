@@ -6,7 +6,7 @@ I am a senior full-stack AI and web developer based in **Shenyang, China**, with
 
 My work spans solution architecture, frontend and backend development, cloud deployment, database design, API integration, performance optimization, code review, technical documentation, and cross-functional delivery.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-WilliamTaylorTech.com-111111?style=for-the-badge)](https://williamtaylortech.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-WilliamTaylorTech.com-111111?style=for-the-badge)](https://resilient-bubblegum-b9d163.netlify.app)
 [![Email](https://img.shields.io/badge/Email-taiwilliam721%40gmail.com-111111?style=for-the-badge)](mailto:taiwilliam721@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-taiwilliam721--ai-111111?style=for-the-badge&logo=github)](https://github.com/taiwilliam721-ai)
 
