@@ -1,10 +1,5 @@
-# Hi, I'm Tai Zhong Won (William) 👋
-
-## Senior Full-Stack AI/Web Developer
-
-I am a senior full-stack AI and web developer based in **Shenyang, China**, with extensive experience designing, building, and supporting enterprise web platforms, APIs, AI-enabled systems, and business automation solutions.
-
-My work spans solution architecture, frontend and backend development, cloud deployment, database design, API integration, performance optimization, code review, technical documentation, and cross-functional delivery.
+<h1 align="center">Hi 👋, Tai Zhong Won (William)</h1>
+<h3 align="center">Senior Software Engineer | AI | Web</h3>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-WilliamTaylorTech.com-111111?style=for-the-badge)](https://resilient-bubblegum-b9d163.netlify.app)
 [![Email](https://img.shields.io/badge/Email-taiwilliam721%40gmail.com-111111?style=for-the-badge)](mailto:taiwilliam721@gmail.com)
