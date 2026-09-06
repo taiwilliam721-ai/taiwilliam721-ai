@@ -19,8 +19,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-5719AD?style=flat-square&logo=laravel)
-![Django](https://img.shields.io/badge/Django-111111?style=flat-square&logo=django)
+![Laravel](https://img.shields.io/badge/Solidity-59AD10?style=for-the-badge&logo=solidity&logoColor=white)
+![Django](https://img.shields.io/badge/Solidity-E7691D?style=for-the-badge&logo=solidity&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Frontend
