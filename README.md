@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/shub-kris/shub-kris/blob/main/header.png" width="1380px" height="180px"></p>
+
 <h1 align="center">Hi 👋, Tai Zhong Won (William)</h1>
 <h3 align="center">Senior Software Engineer | AI | Web</h3>
 
