@@ -29,7 +29,7 @@ My work spans solution architecture, frontend and backend development, cloud dep
 ### Backend
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-0719AA?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi)
 ![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php)
