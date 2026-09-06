@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/shub-kris/shub-kris/blob/main/header.png" width="1380px" height="180px"></p>
 
-<h1 align="center">Hi 👋, I'm Tai Zhong Won (William)</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tai Zhong Won (William)</h1>
 <h3 align="center">Senior Software Engineer | AI | Web</h3>
 
 ---
