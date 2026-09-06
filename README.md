@@ -114,14 +114,6 @@
 
 ---
 
-## Certifications
-
-- AWS Certified Cloud Practitioner
-- Meta Front-End Developer
-- Google Data Analytics
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdelrahmanRadwan/AbdelrahmanRadwan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdelrahmanRadwan/AbdelrahmanRadwan/output/github-snake.svg" />
