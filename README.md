@@ -48,12 +48,12 @@
 
 ### AI and Automation
 
-![OpenAI](https://img.shields.io/badge/OpenAI_API-111111?style=flat-square&logo=openai)
-![RAG](https://img.shields.io/badge/RAG-111111?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-111111?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-111111?style=flat-square&logo=n8n)
-![Zapier](https://img.shields.io/badge/Zapier-111111?style=flat-square&logo=zapier)
-![Make](https://img.shields.io/badge/Make-111111?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-61DAFB?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-120CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-563D7C?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-007FFF?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Make](https://img.shields.io/badge/Make-120CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Cloud, DevOps, and Delivery
 
